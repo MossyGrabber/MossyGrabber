@@ -123,12 +123,12 @@ MossyGrabber will therefore launch at each start
 
 (if you have activated the address crypto replacer I advise you to activate this one)
 ```
-![](https://media.discordapp.net/attachments/912038729626058853/1062473429216919684/image.png)
+![]FILE DELETED
 ```d
 @MossyGrabber: This option will close automatically the window that will launch blackcap 
 (also works if you let the final file in .py so i recommand 'yes')
 ```
-![](https://media.discordapp.net/attachments/912038729626058853/1062473970537992192/image.png)
+![]FILE DELETED
 ```d
 @MossyGrabber: This option will obfuscate the source code "BUT THIS OBFUSCATION WAS DETECTED"
 I recommand to chose 'no'
